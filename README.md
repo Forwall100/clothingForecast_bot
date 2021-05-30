@@ -10,7 +10,7 @@ https://t.me/clothingPredict_bot
 ### Установка бота
 1. Скачайте файлы проекта:
    ```bash
-   git clone https://github.com/Forwall100/cryptanalyst_bot.git
+   git clone https://github.com/Forwall100/clothingForecast_bot.git
    ```
    
 2. Откройте созданую папку:
