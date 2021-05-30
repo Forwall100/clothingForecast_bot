@@ -1,0 +1,2 @@
+OWMToken = ''
+botToken = ''
