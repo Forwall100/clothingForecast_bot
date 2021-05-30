@@ -15,7 +15,7 @@ https://t.me/clothingPredict_bot
    
 2. Откройте созданую папку:
    ```bash
-   cd cryptanalyst_bot
+   cd clothingForecast_bot
    ```
 
 3. Установите сторонние зависимости:
